@@ -31,3 +31,7 @@ https://github.com/AhMyth/AhMyth-Android-RAT.git
 ## DOGERAT
 
 https://github.com/shivaya-dav/DogeRat.git
+
+## AIRAVAT
+
+https://github.com/Th30neAnd0nly/AIRAVAT.git
