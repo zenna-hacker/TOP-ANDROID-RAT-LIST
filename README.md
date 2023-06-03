@@ -20,3 +20,9 @@ https://zennashop.com/product/image-rat/
 https://github.com/zennahack/ZENNA-RAT.git
 
 https://zennashop.com/product/zenna-android-rat/
+
+
+# TOP FREE RAT
+
+## AhMyth Android Rat
+https://github.com/AhMyth/AhMyth-Android-RAT.git
