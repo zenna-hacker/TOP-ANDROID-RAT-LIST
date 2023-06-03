@@ -25,4 +25,9 @@ https://zennashop.com/product/zenna-android-rat/
 # TOP FREE RAT
 
 ## AhMyth Android Rat
+
 https://github.com/AhMyth/AhMyth-Android-RAT.git
+
+## DOGERAT
+
+https://github.com/shivaya-dav/DogeRat.git
