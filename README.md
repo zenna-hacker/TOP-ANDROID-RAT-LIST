@@ -5,7 +5,7 @@
 
 ## PDF RAT
 
-https://github.com/zenna-hacker/PDF-RAT.git
+https://github.com/zenna-hacker/PDF-EXPLOIT.git
 
 https://zennashop.com/product/pdf-rat-hvnc/
 
